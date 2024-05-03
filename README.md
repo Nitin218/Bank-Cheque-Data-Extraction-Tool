@@ -3,9 +3,11 @@
 The Bank Cheque Data Extraction Tool is a project designed to streamline the extraction of specific information from scanned bank cheque images. It automates the process of retrieving crucial data such as date, amount, account number, and cheque number from cheque images, presenting it in a structured and easily accessible format.
  
 **Goal**
+
 The primary goal of this project is to simplify the extraction of essential information from scanned bank cheques. By automating the data extraction process, this tool saves time and effort, enabling users to efficiently manage cheque-related information.
  
 **Functionality**
+
 This tool employs two key components to achieve its objective:
  
 1. Object Detection Model: This model is responsible for identifying various fields on the cheque, including the date, amount, account number, and cheque number. Through training, the model learns to accurately locate these fields within the scanned images.
