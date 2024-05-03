@@ -1,4 +1,4 @@
-# Bank-Cheque-Data-Extraction-Tool
+# Bank Cheque Data Extraction Tool
 
 The Bank Cheque Data Extraction Tool is a project designed to streamline the extraction of specific information from scanned bank cheque images. It automates the process of retrieving crucial data such as date, amount, account number, and cheque number from cheque images, presenting it in a structured and easily accessible format.
  
