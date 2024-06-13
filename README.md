@@ -24,4 +24,6 @@ To utilize the Bank Cheque Data Extraction Tool, follow these steps:
 4. Access and Analyze: Retrieve the Excel sheet containing the extracted data, allowing for easy access and analysis of the cheque information.
 has context menu
 
+**Click on the image to see the video:**
+
 [![Bank_Cheque_Data_Extraction_Tool](http://img.youtube.com/vi/gTVkc3CxQxw/0.jpg)](http://www.youtube.com/watch?v=gTVkc3CxQxw"Bank_Cheque_Data_Extraction_Tool”) 
